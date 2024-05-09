@@ -11,7 +11,7 @@
 Here are some of my coolest projects:
 
 - 🚀 [Airplane Adventure](https://airplane-adventure.netlify.app/)
-- 🌟 [Project 2](link-to-project-2): Description of project 2.
+- 🌟 [Ninja Rangja's Portfolio](link-to-project-2)
 - 🔥 [Project 3](link-to-project-3): Description of project 3.
 
 ## Let's connect!
